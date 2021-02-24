@@ -12,3 +12,7 @@
 * Julia Scott
 
 * Savannah Steele
+
+## Our Problem of Focus:
+
+## Milestones:
