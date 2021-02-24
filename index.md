@@ -1,4 +1,4 @@
-## Welcome to The Project
+# Welcome to The Project
 
 
 ### Team Members
