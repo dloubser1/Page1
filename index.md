@@ -1,14 +1,14 @@
 # Welcome to The Project
 
 
-### Team Members
+## Team Members
 
-*Bryan Shin
+* Bryan Shin
 
-*Christopher Drmacich
+* Christopher Drmacich
 
-*Dillon Lobser
+* Dillon Lobser
 
-*Julia Scott
+* Julia Scott
 
-*Savannah Steele
+* Savannah Steele
