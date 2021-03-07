@@ -7,7 +7,7 @@
 
 * Christopher Drmacich
 
-* Dillon Lobser
+* Dillon Loubser
 
 * Julia Scott
 
